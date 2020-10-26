@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"?>
+<pjs>
+    <pj id="000001">
+        <user>test</user>
+        <password>202cb962ac59075b964b07152d234b70</password>
+        <creationDate>0000-00-00 00:00:00</creationDate>
+        <updateDate>0000-00-00 00:00:00</updateDate>
+        <nombre>Zakarias Ironfist</nombre>
+        <reputacion>Señoritas, no olviden su bolso al salir</reputacion>
+        <rango>Comandante</rango>
+        <total>1000</total>
+        <estamision>1000000</estamision>
+        <hechoundesastre></hechoundesastre>
+        <tullido></tullido>
+        <muerto></muerto>
+        <armadura></armadura>
+        <drogas></drogas>
+        <cualidad1>Nervios de acero</cualidad1>
+        <cualidad2></cualidad2>
+        <cualidad3></cualidad3>
+        <cualidad4></cualidad4>
+        <cualidad5></cualidad5>
+        <defecto1>Orgulloso</defecto1>
+        <defecto2></defecto2>&gt;
+        <defecto3></defecto3>
+        <defecto4></defecto4>
+        <arma1>Pistola</arma1>
+        <arma2>Motoserra</arma2>
+        <arma3></arma3>
+        <arma1CC></arma1CC>
+        <arma2CC>1D4</arma2CC>
+        <arma3CC></arma3CC>
+        <peleaCC>1D4</peleaCC>
+        <arma1CD>1D6</arma1CD>
+        <arma2CD></arma2CD>
+        <arma3CD></arma3CD>
+        <arma1LD></arma1LD>
+        <arma2LD></arma2LD>
+        <arma3LD></arma3LD>
+        <HC>6</HC>
+        <HFC>8</HFC>
+        <nota>Medalla al valor</nota>
+    </pj>
+    <pj id="000002">
+        <user>test</user>
+        <password>202cb962ac59075b964b07152d234b70</password>
+        <creationDate>0000-00-00 00:00:00</creationDate>
+        <updateDate>0000-00-00 00:00:00</updateDate>
+        <nombre>Jeff Stainer</nombre>
+        <reputacion></reputacion>
+        <rango>Sargento</rango>
+        <total>1000</total>
+        <estamision>1000000</estamision>
+        <hechoundesastre></hechoundesastre>
+        <tullido></tullido>
+        <muerto></muerto>
+        <armadura></armadura>
+        <drogas></drogas>
+        <cualidad1>Nervios de acero</cualidad1>
+        <cualidad2></cualidad2>
+        <cualidad3></cualidad3>
+        <cualidad4></cualidad4>
+        <cualidad5></cualidad5>
+        <defecto1>Orgulloso</defecto1>
+        <defecto2></defecto2>&gt;
+        <defecto3></defecto3>
+        <defecto4></defecto4>
+        <arma1>Pistola</arma1>
+        <arma2>Motoserra</arma2>
+        <arma3></arma3>
+        <arma1CC></arma1CC>
+        <arma2CC>1D4</arma2CC>
+        <arma3CC></arma3CC>
+        <peleaCC>1D4</peleaCC>
+        <arma1CD>1D6</arma1CD>
+        <arma2CD></arma2CD>
+        <arma3CD></arma3CD>
+        <arma1LD></arma1LD>
+        <arma2LD></arma2LD>
+        <arma3LD></arma3LD>
+        <HC>6</HC>
+        <HFC>8</HFC>
+        <nota>Medalla al valor</nota>
+    </pj>
+</pjs>

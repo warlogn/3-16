@@ -1,0 +1,74 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+    background-image: url(../background_316.jpg);
+    background-repeat: no-repeat;
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+#top {
+    margin-top: 2em;
+}
+
+#contenedor-formulario {
+    margin-top: 1em;
+    margin-bottom: 5em;
+    margin-left: 15em;
+    margin-right: 15em;
+}
+
+label {
+    color: white;
+}
+
+.list {
+    color: #e8e8e8;
+    margin-right: 8em;
+}
+
+h2.list {
+    margin:0.5em;
+}
+
+table {
+    text-align: center;
+}
+
+th, td {
+    padding-left:1em;
+    padding-right:1em;
+    padding-top:0.2em;
+    padding-bottom:0.2em;
+}
+
+th {
+    font-weight: normal;
+    font-size: larger;
+    border-bottom-style: solid;
+    border-bottom-color: thistle;
+    border-bottom-width: 0.1em;
+    color: white;
+}
+
+tr {
+    background-color:hsla(197, 100%, 0%, 0.6);
+}
+
+a.list {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+a.list:hover {
+    text-decoration: none;
+    color: #0099ff;
+}
+
+#id{
+    align-items: center;
+}
