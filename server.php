@@ -32,4 +32,4 @@ if (isset($_POST['Guarda'])) {
 echo $dom->saveXML();
 $dom->save(DATA);
 
-//header("Location:fitxa.php");
+header("Location:fitxa.php");
