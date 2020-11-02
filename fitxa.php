@@ -62,24 +62,24 @@ if (empty($_GET['id'])) {
     size="26px" style="position:absolute; left:118px; top:235px;">
 
     <!-- Hecho un desastre -->
-     <input type='checkbox' name='hechoundesastre' value='<?php echo $_SESSION['fitxa']['hechoundesastre']?>'
-    style="position:absolute; left:133px; top:303px;">
+    <input type='checkbox' name='hechoundesastre' value='1' style="position:absolute; left:133px; top:303px;" 
+    <?php if ($_SESSION['fitxa']['hechoundesastre'] == 1) echo "checked='checked'"; ?>>
 
     <!-- Tullido -->
-    <input type='checkbox' name='tullido' value='<?php echo $_SESSION['fitxa']['tullido']?>'
-    style="position:absolute; left:133px; top:325px;">
+    <input type='checkbox' name='tullido' value='1' style="position:absolute; left:133px; top:325px;"
+    <?php if ($_SESSION['fitxa']['tullido'] == 1) echo "checked='checked'"; ?>>
 
     <!-- Muerto -->
-    <input type='checkbox' name='muerto' value='<?php echo $_SESSION['fitxa']['muerto']?>'
-    style="position:absolute; left:118px; top:350px;" >
+    <input type='checkbox' name='muerto' value='1' style="position:absolute; left:118px; top:350px;"
+    <?php if ($_SESSION['fitxa']['muerto'] == 1) echo "checked='checked'"; ?>>
 
     <!-- Armadura -->
-    <input type='checkbox' name='armadura' value='<?php echo $_SESSION['fitxa']['armadura']?>'
-    style="position:absolute; left:221px; top:341px;">
+    <input type='checkbox' name='armadura' value='1' style="position:absolute; left:221px; top:341px;"
+    <?php if ($_SESSION['fitxa']['armadura'] == 1) echo "checked='checked'"; ?>>
 
     <!-- Drogas -->
-    <input type='checkbox' name='drogas' value='<?php echo $_SESSION['fitxa']['drogas']?>'
-    style="position:absolute; left:312px; top:341px;">
+    <input type='checkbox' name='drogas' value='1' style="position:absolute; left:312px; top:341px;"
+    <?php if ($_SESSION['fitxa']['drogas'] == 1) echo "checked='checked'"; ?>>
 
     <!-- cualidad1 -->
     <input type='text' name='cualidad1' value='<?php echo $_SESSION['fitxa']['cualidad1']?>' 
