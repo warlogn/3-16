@@ -2,85 +2,208 @@
 <?xml-stylesheet type="text/xsl"?>
 <pjs>
     <pj id="000001">
-        <user>test</user>
-        <password>202cb962ac59075b964b07152d234b70</password>
+        <user></user>
+        <password></password>
         <creationDate>0000-00-00 00:00:00</creationDate>
         <updateDate>0000-00-00 00:00:00</updateDate>
-        <nombre>Zakarias Ironfist</nombre>
-        <reputacion>Señoritas, no olviden su bolso al salir</reputacion>
-        <rango>Comandante</rango>
-        <total>1000</total>
-        <estamision>1000000</estamision>
+        <nombre>Jeff Steiner</nombre>
+        <reputacion>Honor, disciplina y buena comida</reputacion>
+        <rango>Sargento</rango>
+        <total>0</total>
+        <estamision>0</estamision>
         <hechoundesastre></hechoundesastre>
         <tullido></tullido>
         <muerto></muerto>
-        <armadura></armadura>
-        <drogas></drogas>
-        <cualidad1>Nervios de acero</cualidad1>
+        <armadura>1</armadura>
+        <drogas>1</drogas>
+        <cualidad1></cualidad1>
         <cualidad2></cualidad2>
         <cualidad3></cualidad3>
         <cualidad4></cualidad4>
         <cualidad5></cualidad5>
-        <defecto1>Orgulloso</defecto1>
-        <defecto2></defecto2>&gt;
+        <defecto1></defecto1>
+        <defecto2></defecto2>
         <defecto3></defecto3>
         <defecto4></defecto4>
-        <arma1>Pistola</arma1>
-        <arma2>Motoserra</arma2>
+        <arma1></arma1>
+        <arma2></arma2>
         <arma3></arma3>
         <arma1CC></arma1CC>
-        <arma2CC>1D4</arma2CC>
+        <arma2CC></arma2CC>
         <arma3CC></arma3CC>
-        <peleaCC>1D4</peleaCC>
-        <arma1CD>1D6</arma1CD>
+        <peleaCC></peleaCC>
+        <arma1CD></arma1CD>
         <arma2CD></arma2CD>
         <arma3CD></arma3CD>
         <arma1LD></arma1LD>
         <arma2LD></arma2LD>
         <arma3LD></arma3LD>
-        <HC>6</HC>
-        <HFC>8</HFC>
-        <nota>Medalla al valor</nota>
+        <HC>3</HC>
+        <HFC>7</HFC>
+        <nota></nota>
     </pj>
     <pj id="000002">
-        <user>test</user>
-        <password>202cb962ac59075b964b07152d234b70</password>
+        <user></user>
+        <password></password>
         <creationDate>0000-00-00 00:00:00</creationDate>
         <updateDate>0000-00-00 00:00:00</updateDate>
-        <nombre>Jeff Stainer</nombre>
-        <reputacion></reputacion>
-        <rango>Sargento</rango>
-        <total>1000</total>
-        <estamision>1000000</estamision>
+        <nombre>Alfons Wers</nombre>
+        <reputacion>Esto lo arreglo con nitroglicerina y una cerveza</reputacion>
+        <rango>Soldado</rango>
+        <total>0</total>
+        <estamision>0</estamision>
         <hechoundesastre></hechoundesastre>
         <tullido></tullido>
         <muerto></muerto>
-        <armadura></armadura>
-        <drogas></drogas>
-        <cualidad1>Nervios de acero</cualidad1>
+        <armadura>1</armadura>
+        <drogas>1</drogas>
+        <cualidad1></cualidad1>
         <cualidad2></cualidad2>
         <cualidad3></cualidad3>
         <cualidad4></cualidad4>
         <cualidad5></cualidad5>
-        <defecto1>Orgulloso</defecto1>
-        <defecto2></defecto2>&gt;
+        <defecto1></defecto1>
+        <defecto2></defecto2>
         <defecto3></defecto3>
         <defecto4></defecto4>
-        <arma1>Pistola</arma1>
-        <arma2>Motoserra</arma2>
+        <arma1></arma1>
+        <arma2></arma2>
         <arma3></arma3>
         <arma1CC></arma1CC>
-        <arma2CC>1D4</arma2CC>
+        <arma2CC></arma2CC>
         <arma3CC></arma3CC>
-        <peleaCC>1D4</peleaCC>
-        <arma1CD>1D6</arma1CD>
+        <peleaCC></peleaCC>
+        <arma1CD></arma1CD>
         <arma2CD></arma2CD>
         <arma3CD></arma3CD>
         <arma1LD></arma1LD>
         <arma2LD></arma2LD>
         <arma3LD></arma3LD>
-        <HC>6</HC>
-        <HFC>8</HFC>
-        <nota>Medalla al valor</nota>
+        <HC>4</HC>
+        <HFC>6</HFC>
+        <nota></nota>
+    </pj>
+    <pj id="000003">
+        <user></user>
+        <password></password>
+        <creationDate>0000-00-00 00:00:00</creationDate>
+        <updateDate>0000-00-00 00:00:00</updateDate>
+        <nombre>Steve Pilsner</nombre>
+        <reputacion>Perdón sargento, alguien escondió mis botas</reputacion>
+        <rango>Soldado</rango>
+        <total>0</total>
+        <estamision>0</estamision>
+        <hechoundesastre></hechoundesastre>
+        <tullido></tullido>
+        <muerto></muerto>
+        <armadura>1</armadura>
+        <drogas>1</drogas>
+        <cualidad1></cualidad1>
+        <cualidad2></cualidad2>
+        <cualidad3></cualidad3>
+        <cualidad4></cualidad4>
+        <cualidad5></cualidad5>
+        <defecto1></defecto1>
+        <defecto2></defecto2>
+        <defecto3></defecto3>
+        <defecto4></defecto4>
+        <arma1></arma1>
+        <arma2></arma2>
+        <arma3></arma3>
+        <arma1CC></arma1CC>
+        <arma2CC></arma2CC>
+        <arma3CC></arma3CC>
+        <peleaCC></peleaCC>
+        <arma1CD></arma1CD>
+        <arma2CD></arma2CD>
+        <arma3CD></arma3CD>
+        <arma1LD></arma1LD>
+        <arma2LD></arma2LD>
+        <arma3LD></arma3LD>
+        <HC>5</HC>
+        <HFC>5</HFC>
+        <nota></nota>
+    </pj>
+    <pj id="000004">
+        <user></user>
+        <password></password>
+        <creationDate>0000-00-00 00:00:00</creationDate>
+        <updateDate>0000-00-00 00:00:00</updateDate>
+        <nombre>Harold Brand</nombre>
+        <reputacion>Chicas buenas van al cielo, las malas a mi hotel</reputacion>
+        <rango>Cabo</rango>
+        <total>0</total>
+        <estamision>0</estamision>
+        <hechoundesastre></hechoundesastre>
+        <tullido></tullido>
+        <muerto></muerto>
+        <armadura>1</armadura>
+        <drogas>1</drogas>
+        <cualidad1></cualidad1>
+        <cualidad2></cualidad2>
+        <cualidad3></cualidad3>
+        <cualidad4></cualidad4>
+        <cualidad5></cualidad5>
+        <defecto1></defecto1>
+        <defecto2></defecto2>
+        <defecto3></defecto3>
+        <defecto4></defecto4>
+        <arma1></arma1>
+        <arma2></arma2>
+        <arma3></arma3>
+        <arma1CC></arma1CC>
+        <arma2CC></arma2CC>
+        <arma3CC></arma3CC>
+        <peleaCC></peleaCC>
+        <arma1CD></arma1CD>
+        <arma2CD></arma2CD>
+        <arma3CD></arma3CD>
+        <arma1LD></arma1LD>
+        <arma2LD></arma2LD>
+        <arma3LD></arma3LD>
+        <HC>8</HC>
+        <HFC>2</HFC>
+        <nota></nota>
+    </pj>
+    <pj id="000005">
+        <user></user>
+        <password></password>
+        <creationDate>0000-00-00 00:00:00</creationDate>
+        <updateDate>0000-00-00 00:00:00</updateDate>
+        <nombre>Sandy Lane</nombre>
+        <reputacion>Reventar cabezas es mi mision en la vida</reputacion>
+        <rango>Soldado</rango>
+        <total>0</total>
+        <estamision>0</estamision>
+        <hechoundesastre></hechoundesastre>
+        <tullido></tullido>
+        <muerto></muerto>
+        <armadura>1</armadura>
+        <drogas>1</drogas>
+        <cualidad1></cualidad1>
+        <cualidad2></cualidad2>
+        <cualidad3></cualidad3>
+        <cualidad4></cualidad4>
+        <cualidad5></cualidad5>
+        <defecto1></defecto1>
+        <defecto2></defecto2>
+        <defecto3></defecto3>
+        <defecto4></defecto4>
+        <arma1></arma1>
+        <arma2></arma2>
+        <arma3></arma3>
+        <arma1CC></arma1CC>
+        <arma2CC></arma2CC>
+        <arma3CC></arma3CC>
+        <peleaCC></peleaCC>
+        <arma1CD></arma1CD>
+        <arma2CD></arma2CD>
+        <arma3CD></arma3CD>
+        <arma1LD></arma1LD>
+        <arma2LD></arma2LD>
+        <arma3LD></arma3LD>
+        <HC>7</HC>
+        <HFC>3</HFC>
+        <nota></nota>
     </pj>
 </pjs>
